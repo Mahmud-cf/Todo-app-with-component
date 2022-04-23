@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-size: 19px;
 }
 
 .App-logo {
@@ -36,3 +37,19 @@
     transform: rotate(360deg);
   }
 }
+input{
+  padding:10px 25px;
+}
+button{
+  padding:8px 20px;
+  margin:.6rem;
+}
+.student-information{
+  display:flex;
+  justify-content: space-around;
+}
+.student-information div{
+  display: inline-block;
+}
+
+
